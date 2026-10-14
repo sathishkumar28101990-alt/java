@@ -1,6 +1,7 @@
 package hierarchicalinheritance;
 
-public class product {
+public class product
+{
     public void sellproducts(int qty,double p)
     {
         double price=qty*p;
